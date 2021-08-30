@@ -14,5 +14,10 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "apollo": "^2.33.6",
+    "app": "^0.1.0",
+    "react": "^17.0.2"
   }
 }
