@@ -13,12 +13,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "apollo": "^2.33.6",
     "concurrently": "^5.1.0"
   },
   "dependencies": {
     "@apollo/client": "^3.4.10",
     "@apollo/react-hooks": "^4.0.0",
-    "apollo": "^2.33.6",
     "apollo-server-express": "^3.3.0",
     "app": "^0.1.0",
     "graphql": "^15.5.2",
