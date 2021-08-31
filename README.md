@@ -10,9 +10,9 @@ Users can search the database with books filled to the brim to their hearts cont
 * [Git](https://git-scm.com/about)
 * [Github](https://github.com/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-* [Node.js](https://nodejs.org/en/docs/)
-* [Expressjs](https://www.npmjs.com/package/express)
+* [Restful API]
+* [GraphQL]
+* [MongoDB]
 * [Heroku](https://devcenter.heroku.com/)
 
 
@@ -29,10 +29,5 @@ Users can search the database with books filled to the brim to their hearts cont
 ---
 
 ## Resources
-https://www.npmjs.com/package/express-handlebars
-https://www.npmjs.com/package/mysql2
-https://www.npmjs.com/package/sequelize
-https://www.npmjs.com/package/dotenv
-https://www.npmjs.com/package/bcrypt
-https://www.npmjs.com/package/express-session
-https://www.npmjs.com/package/connect-session-sequelize
+
+https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas
